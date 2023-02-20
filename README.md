@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://github.com/the/tinder-clone/blob/master/images/logo.png" width="150">
+  <img src="https://github.com/thebugbounter/tinder-clone/blob/master/images/logo.png" width="150">
 <br>
 <br>
 Tinder HTML CSS
